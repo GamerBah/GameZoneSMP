@@ -1,0 +1,81 @@
+deaths:
+  fall:
+    - "lost a fight with gravity"
+    - "fell from the sky"
+    - "didn't land on their feet"
+  lava:
+    - "tried to swim in lava"
+    - "was boiled in lava"
+    - "was cooked in molten rock"
+  drowning:
+    - "forgot to come up for air"
+    - "thought they were a fish"
+    - "became a Drowned"
+    - "forgot to breathe"
+  fire:
+    - "didn't stop, drop, and roll"
+    - "was burnt to a crisp"
+    - "got caught in the flames"
+    - "became a pile of ash"
+    - "couldn't put out the fire"
+  void:
+    - "fell into the void"
+    - "disappeared into the depths of space"
+    - "vanished into eternal darkness"
+    - "forgot to bring an elytra"
+  blockExplosion:
+    - "went ka-boom!"
+    - "exploded"
+    - "was blown up"
+  dragon:
+    - "was consumed by The Dragon's flames"
+    - "was turned to ash by The Dragon"
+    - "fell at the hands of The Dragon"
+    - "couldn't escape The Dragon's breath"
+  entityExplosion:
+    - "hugged a creeper"
+    - "was blown up by a creeper"
+    - "didn't hear the hiss"
+  flying:
+    - "is still learning to fly"
+    - "flew into a wall"
+    - "doesn't know how to fly"
+  hotFloor:
+    - "didn't notice the floor was hot"
+    - "played with magma"
+    - "walked on hot rocks"
+  magic:
+    - "died magically"
+    - "was killed by magic"
+  starving:
+    - "couldn't find any food"
+    - "starved to death"
+    - "forgot to eat"
+  suffocation:
+    - "became one with a block"
+    - "suffocated in a wall"
+    - "was eaten by the earth"
+  wither:
+    - "withered away"
+    - "turned to dust"
+    - "didn't feel so good..."
+  fallingBlock:
+    - "was crushed by a falling block"
+    - "was killed by a falling piano"
+    - "got bonked in the head by a block"
+  lightning:
+    - "was stuck by lightning"
+    - "made Thor angry"
+    - "held their kite up too long"
+    - "played with electricity"
+  cramming:
+    - "got crushed by the crowd"
+    - "fell prey to entity cramming"
+    - "got trampled"
+  freezing:
+    - "became a block of ice"
+    - "froze to death"
+    - "became a snowman"
+  poison:
+    - "couldn't find the cure"
+    - "was killed by poison"

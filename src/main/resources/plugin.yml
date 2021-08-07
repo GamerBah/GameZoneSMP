@@ -1,0 +1,71 @@
+name: GameZoneSMP
+version: 1.0
+main: com.gamerbah.gamezonesmp.GameZoneSMP
+api-version: 1.16
+authors: [ GamerBah ]
+website: https://gamerbah.com/
+depend:
+  - CommandAPI
+  - InventoryToolkit
+softdepend:
+  - DiscordSRV
+  - Plan
+loadbefore:
+  - Citizens
+commands:
+  afk:
+    description: Tell the server you're going AFK
+  message:
+    description: Private message a player
+    aliases: [ m, tell, w, whisper, msg ]
+  ping:
+    description: Show what your connection is in milliseconds
+  reply:
+    description: Reply to the last-received private message
+    aliases: [ r ]
+  rules:
+    description: View the server rules
+  home:
+    description: Teleport to your bed if you have one
+  checkinventory:
+    description: ""
+    aliases: [ ci, checkinv, check, inv ]
+  world:
+    description: Go to different worlds!
+  pvp:
+    description: Toggle player combat (pvp) for yourself
+  rank:
+    description: Changes player rank manually
+  freeze:
+    description: Freezes players
+  flyspeed:
+    description: Sets your flying speed
+    aliases: [ fspeed, fsp ]
+  reload:
+    description: Reloads the server
+  setlocation:
+    description: Sets various locations
+    aliases: [ setloc ]
+  maintenance:
+    description: Puts the in a Staff-only maintenance mode
+  chat:
+    description: Various chat moderation commands
+  spawn:
+    description: Returns you to the spawn
+  gamemode:
+    description: Changes your gamemode.
+  twitch:
+    description: Watch a Twitch channel's chat!
+  help:
+    description: Get command help
+  smite:
+    description: Smite them down!
+  slimechunks:
+    description: Check for slime chunks!
+    aliases: [ sc, slimes ]
+  vanish:
+    description: Turn yourself invisible
+  openinv:
+    description: Opens inventories
+  shop:
+    description: View and Manage your shops
